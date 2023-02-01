@@ -7,6 +7,10 @@
 - 🌱 I’m currently learning **Java Spring**
 
 - 📫 How to reach me **alidinabylkasymuulu03@gmail.com**
+- **Plans for this year:**</br>
+&emsp; **Internship**
+&emsp; **Personal project**
+&emsp; **LeetCode 400< medium questions**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
