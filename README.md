@@ -1,4 +1,4 @@
-[![MasterHead](https://d585tldpucybw.cloudfront.net/sfimages/default-source/productsimages/fiddler/fiddler-everywhere-overview-mascot-hero.png?sfvrsn=9072d287_2)]
+![MasterHead](https://d585tldpucybw.cloudfront.net/sfimages/default-source/productsimages/fiddler/fiddler-everywhere-overview-mascot-hero.png?sfvrsn=9072d287_2)
 <h1 align="center">Hi 👋, I'm Alidin</h1>
 <h3 align="center">A passionate developer from Kyrgyzstan</h3>
 <img align="right" alt="Coding" width="400" src="https://img.freepik.com/premium-vector/debugging-code-software-search-bug-error-from-screen-laptop-source-datum-testing-fixing_159757-576.jpg">
