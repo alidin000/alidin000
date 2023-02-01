@@ -8,9 +8,9 @@
 
 - 📫 How to reach me **alidinabylkasymuulu03@gmail.com**
 - **Plans for this year:**</br>
-&emsp; **Internship**
-&emsp; **Personal project**
-&emsp; **LeetCode 400< medium questions**
+&emsp; **Internship**</br>
+&emsp; **Personal project**</br>
+&emsp; **LeetCode 400< medium questions**</br>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
