@@ -4,12 +4,12 @@
 <img align="right" alt="Coding" width="400" src="https://img.freepik.com/premium-vector/debugging-code-software-search-bug-error-from-screen-laptop-source-datum-testing-fixing_159757-576.jpg">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=alidin000&label=Profile%20views&color=0e75b6&style=flat" alt="alidin000" /> </p>
 
-- 🌱 I’m currently learning **Java Spring**
+- 🌱 I’m currently learning **Python deeply**
 
 - 📫 How to reach me **alidinabylkasymuulu03@gmail.com**
 - **Plans for this year:**</br>
-&emsp; **Internship**</br>
-&emsp; **Personal project**</br>
+&emsp; **Internship (done)**</br>
+&emsp; **Personal project (in process)**</br>
 &emsp; **LeetCode 400< medium questions**</br>
 
 <h3 align="left">Connect with me:</h3>
