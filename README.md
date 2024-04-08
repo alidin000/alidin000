@@ -8,7 +8,7 @@
 
 - 📫 How to reach me **alidinabylkasymuulu03@gmail.com**
 - **Plans for this year:**</br>
-&emsp; **Internship (done)**</br>
+&emsp; **FULL TIME**</br>
 &emsp; **Personal project (in process)**</br>
 &emsp; **LeetCode 400< medium questions**</br>
 
